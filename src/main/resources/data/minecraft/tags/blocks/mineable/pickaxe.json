@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "inverted_realm:slate",
+    "inverted_realm:icy_cobblestone",
+    "inverted_realm:frost_stone",
+    "inverted_realm:frozen_stone"
+  ]
+}

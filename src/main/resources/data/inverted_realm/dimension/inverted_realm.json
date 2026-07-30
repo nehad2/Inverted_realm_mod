@@ -1,0 +1,8 @@
+{
+  "type": "inverted_realm:inverted_realm_type",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "inverted_realm:inverted_realm_noise",
+    "biome_source": { "type": "minecraft:fixed", "biome": "inverted_realm:alpine_peaks" }
+  }
+}

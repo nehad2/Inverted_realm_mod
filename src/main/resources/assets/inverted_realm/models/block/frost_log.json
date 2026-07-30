@@ -1,0 +1,1 @@
+{ "parent": "minecraft:block/cube_column", "textures": { "end": "inverted_realm:block/frost_log_top", "side": "inverted_realm:block/frost_log_side" } }

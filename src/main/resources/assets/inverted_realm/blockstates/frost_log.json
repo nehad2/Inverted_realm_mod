@@ -1,0 +1,1 @@
+{ "variants": { "axis=y": { "model": "inverted_realm:block/frost_log" }, "axis=z": { "model": "inverted_realm:block/frost_log", "x": 90 }, "axis=x": { "model": "inverted_realm:block/frost_log", "x": 90, "y": 90 } } }

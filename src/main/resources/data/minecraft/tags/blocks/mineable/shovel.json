@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "inverted_realm:permafrost",
+    "inverted_realm:permafrost_face",
+    "inverted_realm:permafrost_32x32",
+    "inverted_realm:compacted_snow"
+  ]
+}

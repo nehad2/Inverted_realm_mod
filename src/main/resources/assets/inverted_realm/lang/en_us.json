@@ -1,0 +1,17 @@
+{
+  "item.inverted_realm.catalyst": "Realm Catalyst",
+  "itemgroup.inverted_realm": "Inverted Realm",
+  "block.inverted_realm.slate": "Slate",
+  "block.inverted_realm.permafrost": "Permafrost",
+  "block.inverted_realm.permafrost_face": "Permafrost Face",
+  "block.inverted_realm.permafrost_32x32": "Permafrost",
+  "block.inverted_realm.hoarfrost_leaves": "Hoarfrost Leaves",
+  "block.inverted_realm.frost_log": "Frost Log",
+  "block.inverted_realm.icy_cobblestone": "Icy Cobblestone",
+  "block.inverted_realm.compacted_snow": "Compacted Snow",
+  "block.inverted_realm.black_ice": "Black Ice",
+  "block.inverted_realm.black_ice_32x32": "Black Ice",
+  "block.inverted_realm.frost_stone": "Frost Stone",
+  "block.inverted_realm.frozen_stone": "Frozen Stone",
+  "block.inverted_realm.glacier_ice": "Glacier Ice"
+}

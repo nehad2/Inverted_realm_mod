@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "inverted_realm:block/permafrost_top",
+    "side": "inverted_realm:block/permafrost_side",
+    "bottom": "inverted_realm:block/permafrost_bottom"
+  }
+}

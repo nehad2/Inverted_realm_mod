@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "inverted_realm",
+  "version": "1.0.0",
+  "name": "The Inverted Realm",
+  "description": "An upside-down realm dimension mod.",
+  "authors": [ "Nehad" ],
+  "contact": {},
+  "license": "CC0-1.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": [ "com.invertedrealm.InvertedRealm" ],
+    "client": [ "com.invertedrealm.client.InvertedRealmClient" ],
+    "terrablender": [ "com.invertedrealm.world.biomes.InvertedRealmTerraBlender" ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*",
+    "terrablender": "*"
+  }
+}

@@ -1,0 +1,1 @@
+{ "parent": "minecraft:block/cube_all", "textures": { "all": "inverted_realm:block/black_ice_32x32" } }
